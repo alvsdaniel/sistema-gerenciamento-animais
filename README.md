@@ -1,77 +1,17 @@
 # Sistema de Gerenciamento de Abrigos e Resgate de Animais
 
-Trabalho final da disciplina de Programação Orientada a Objetos.
-Sistema para ONGs e instituições de proteção animal organizarem animais resgatados,
-cuidadores, voluntários, saúde dos animais e processos de adoção.
+Trabalho final de Programação Orientada a Objetos (CRT0007), UFC Crateús, 2026.2.
+Professor: Alan Lopes Melo.
 
-```
-Disciplina   CRT0007 - Programação Orientada a Objetos (Turma 01)
-Instituição  Universidade Federal do Ceará - Campus Crateús
-Professor    Alan Lopes Melo
-Período      2026.2
-Linguagem    Java
-```
+Sistema em Java para controlar animais resgatados, voluntários, veterinários,
+adoções e saúde dos animais em um abrigo.
 
----
+Autor: Daniel Alves ([@alvsdaniel](https://github.com/alvsdaniel))
 
-## Equipe
+## Status
 
-| Nome | Matrícula | GitHub |
-|------|-----------|--------|
-| Daniel | _a preencher_ | [@alvsdaniel](https://github.com/alvsdaniel) |
-| _a preencher_ | _a preencher_ | _a preencher_ |
-
----
-
-## Funcionalidades
-
-Acompanhamento do que já está implementado e funcionando.
-
-**Usuários**
-- [ ] Voluntário
-- [ ] Veterinário
-- [ ] Administrador do abrigo
-
-**Módulos**
-- [ ] Gestão de animais (cadastro, edição, remoção, busca e filtros)
-- [ ] Processo de adoção (solicitação, aprovação, histórico, devolução)
-- [ ] Controle de saúde (consultas, vacinas, medicamentos, cirurgias)
-- [ ] Agendamento de atividades (mutirões, campanhas, feiras, eventos)
-- [ ] Notificações
-- [ ] Relatórios e estatísticas
-
-**Extras**
-- [ ] Sistema de compatibilidade entre adotante e animal
-- [ ] Interface gráfica
-- [x] Versionamento com Git
-
----
+Em desenvolvimento. Por enquanto só existe este README.
 
 ## Como executar
 
-_A preencher quando houver a primeira versão executável._
-
----
-
-## Autoria
-
-Quem implementou cada parte do sistema.
-
-| Parte | Responsável |
-|-------|-------------|
-| _a preencher_ | _a preencher_ |
-
----
-
-## Cronograma
-
-| Data | Entrega |
-|------|---------|
-| 22/10/2026 | Relato de desenvolvimento |
-| 27/10/2026 | Relato de desenvolvimento |
-| 29/10/2026 | Relato de desenvolvimento |
-| 03/11/2026 | Relato de desenvolvimento |
-| 05/11/2026 | Relato de desenvolvimento |
-| 10/11/2026 | Relato de desenvolvimento |
-| 13/11/2026 | **Entrega do código no SIGAA** |
-| 16/11/2026 | Entrega dos vídeos |
+Ainda não há versão executável.

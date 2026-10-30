@@ -1,17 +1,15 @@
 # Sistema de Gerenciamento de Abrigos e Resgate de Animais
 
-Trabalho final de Programação Orientada a Objetos (CRT0007), UFC Crateús, 2026.2.
-Professor: Alan Lopes Melo.
+Meu trabalho final de POO (CRT0007), UFC Crateús, 2026.2. Professor: Alan Lopes Melo.
 
-Sistema em Java para controlar animais resgatados, voluntários, veterinários,
-adoções e saúde dos animais em um abrigo.
+É um sistema em Java pra cuidar de um abrigo de animais resgatados: os animais, voluntários, veterinários, adoções e a saúde de cada um.
 
-Autor: Daniel Alves ([@alvsdaniel](https://github.com/alvsdaniel))
+Feito sozinho por Daniel Alves ([@alvsdaniel](https://github.com/alvsdaniel)).
 
-## Status
+## Como tá
 
-Em desenvolvimento. Por enquanto só existe este README.
+Comecei agora. Por enquanto só tem a classe `Usuario`, que vai ser a base de voluntário, veterinário e administrador.
 
-## Como executar
+## Como rodar
 
-Ainda não há versão executável.
+Ainda não dá, não tem nada pronto pra executar.
